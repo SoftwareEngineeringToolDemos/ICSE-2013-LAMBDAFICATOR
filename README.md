@@ -3,7 +3,7 @@
 This repository contains information related to the tool LAMBDAFICATOR presented at International Conference on Software Engineering, 2013. The tool was originally presented 
 <a href="http://dl.acm.org/citation.cfm?id=2486986">in this paper.</a>
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository <i>is not </i>the original repository for this tool. Here are some links to the original project:
 
 
 <a href="http://refactoring.info/tools/LambdaFicator/">The Official Project Page</a>

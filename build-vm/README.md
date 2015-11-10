@@ -14,5 +14,4 @@
 
 ## Acknowledgements:
 * The commands for installing Java 8 have been taken from <a href="https://github.com/aglover">Andrew Glover's<a> <a href="https://github.com/aglover/ubuntu-equip">github repository</a>.
-* The commands for installing Netbeans in have been taken from 
-* <a href="http://thoughtfulsoftware.blogspot.com/2013/04/how-to-run-ide-inside-vagrant-vm.html">this blog</a>.
+* The commands for installing Netbeans in have been taken from <a href="http://thoughtfulsoftware.blogspot.com/2013/04/how-to-run-ide-inside-vagrant-vm.html">this blog</a>.

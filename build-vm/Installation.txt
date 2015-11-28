@@ -1,0 +1,9 @@
+There is no binary for this tool Lambdaficator.
+
+It is integrated with official distribution of Netbeans and this tool functionality can be observed only when the JDK version is 8 and above.
+
+Install JDK 8 or above version.
+
+Install Netbeans.
+
+

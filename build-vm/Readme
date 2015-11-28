@@ -1,0 +1,29 @@
+Lambdaficator is the Tool which I was assigned to work on.
+
+This tool is integrated with official distribution of Netbeans and works only with JDK version of 8 and above.
+
+I have installed JDK 8 , netbeans in this image.
+
+For testing purposes, I have created a project called Tool_Test in netbeans. 
+
+I have also created two java files. one is Functional_Operations_test.java and other is Lambda_Expression_Test.java.
+
+Lambdaficator is used for code refactoring purposes.
+
+Here is the link for the paper 
+http://dl.acm.org/citation.cfm?id=2486986
+
+Test 1:
+The first refactoring converts anonymous inner classes to lambda expressions.
+This can be tested in Lambda_Expression_Test.java file.
+I have written a code with an innerclass code. You can see a code hint on the left hand side, if you click it , it asks you to "use lambda expression". If you click that inner class code willbe changed to lambda expression.
+
+Test 2:
+The second refactoring converts for loops that iterate over Collections to functional operations that use lambda expressions.
+This can be tested in Functional_Operations_test.java file.
+I have written sample code using a for loop that iterates over a collection. A code hint is displayed on the left hand side, if you click it, it will ask you to "use functional operation". If you click that, code will be refactored.
+
+There is no executable for this tool.
+We have confirmed this from authors of the tool too.
+
+

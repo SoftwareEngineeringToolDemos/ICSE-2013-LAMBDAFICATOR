@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=NetBeans IDE 8.1
 Comment=The Smarter Way to Code
-Exec=/bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+Exec=/usr/local/netbeans-8.1/bin/netbeans --jdkhome /usr/lib/jvm/java-8-oracle/
 Icon=/usr/local/netbeans-8.1/nb/netbeans.png
 Categories=Application;Development;Java;IDE
 Version=1.0

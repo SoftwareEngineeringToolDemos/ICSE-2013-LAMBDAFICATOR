@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=NetBeans IDE 8.0.2
+Name=NetBeans IDE 8.1
 Comment=The Smarter Way to Code
-Exec=/bin/sh "/home/vagrant/netbeans-8.0.2/bin/netbeans"
-Icon=/home/vagrant/netbeans-8.0.2/nb/netbeans.png
+Exec=/bin/sh "/usr/local/netbeans-8.1/bin/netbeans"
+Icon=/usr/local/netbeans-8.1/nb/netbeans.png
 Categories=Application;Development;Java;IDE
 Version=1.0
 Type=Application

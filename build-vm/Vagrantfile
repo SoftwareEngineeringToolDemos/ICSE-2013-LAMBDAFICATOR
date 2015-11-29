@@ -68,10 +68,11 @@ Vagrant.configure(2) do |config|
 		echo 'Icon=text-html'
 	} > /home/vagrant/Desktop/youtube.desktop
 
-	# Download the required project
+	# Download the required project and modify permissions accordingly
 	sudo wget -O /home/vagrant/Downloads/lambda_test.zip	https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-LAMBDAFICATOR/raw/master/build-vm/lambda_test.zip
 	cd /home/vagrant/Desktop
 	unzip -o /home/vagrant/Downloads/lambda_test.zip
+	sudo chmod -R 777 Lambda_Test
   
 	# Remove icons from the launcher. Only leave the icons for home directory, settings and firefox.
 	sudo mkdir /home/vagrant/icons_backup

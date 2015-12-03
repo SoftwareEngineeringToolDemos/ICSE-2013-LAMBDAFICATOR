@@ -11,7 +11,7 @@ This repository <i>is not </i>the original repository for this tool. Here are so
 <a href="https://www.youtube.com/watch?v=EIyAflgHVpU">A Video of the Tool</a>
 
 In this repository, for Lambdaficator you will find:<br>
-:white_check_mark: [Source code](not available)<br>
+:x: Source code (not available)<br>
 :white_check_mark: [Binary Distribution](not available)<br>
 Lambdaficator is included in the official distribution of netbeans and there is no source code and binary available for Lambdaficator.<br>
 :white_check_mark: [Virtual Machine containing Tool](https://drive.google.com/a/ncsu.edu/folderview?id=0B3GbPov8x279UFNIOFJGN1hlUEk&usp=sharing&tid=0B3GbPov8x279UWFHSDNrRWZkems)<br>

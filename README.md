@@ -14,7 +14,7 @@ In this repository, for Lambdaficator you will find:<br>
 :x: Source code (not available)<br>
 :x: Binary Distribution (not available)<br>
 Lambdaficator is included in the official distribution of netbeans and there is no source code and binary available for Lambdaficator.<br>
-:white_check_mark: [Virtual Machine containing Tool](https://drive.google.com/a/ncsu.edu/folderview?id=0B3GbPov8x279UFNIOFJGN1hlUEk&usp=sharing&tid=0B3GbPov8x279UWFHSDNrRWZkems)<br>
+:white_check_mark: [Virtual Machine containing Tool](https://drive.google.com/a/ncsu.edu/file/d/0B5oCXk5b71yhbkFBZlFHUENFQzA/view?usp=sharing)<br>
 The Virtual Machine Disk image can be downloaded from the above link and directly imported into Virtual Box to start the Virtual Machine which contains the tool PSPWizard.
 <br>
 

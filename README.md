@@ -17,7 +17,9 @@ Lambdaficator is included in the official distribution of netbeans and there is 
 :white_check_mark: [Virtual Machine containing Tool](https://drive.google.com/a/ncsu.edu/file/d/0B5oCXk5b71yhbkFBZlFHUENFQzA/view?usp=sharing)<br>
 The Virtual Machine Disk image can be downloaded from the above link and directly imported into Virtual Box to start the Virtual Machine which contains the tool Lambdaficator.
 <br>
-
+:white_check_mark: [Virtual Machine containing Tool using Vagrant] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-LAMBDAFICATOR/tree/master/build-vm)<br>
+This allows you to create a Virtual Machine using Vagrant & Virtual box which contains the tool Lambdaficator.
+<p>
 LAMBDAFICATOR is available in the JDK8-lambda branch of NetBeans.
 In order to be able to run any of the refactorings you will need to install the
 <a href="https://jdk8.java.net/lambda/">lambda branch of JDK8</a>

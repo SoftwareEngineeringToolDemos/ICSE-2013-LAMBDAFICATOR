@@ -10,10 +10,10 @@ This repository <i>is not </i>the original repository for this tool. Here are so
 <br>
 <a href="https://www.youtube.com/watch?v=EIyAflgHVpU">A Video of the Tool</a>
 
-In this repository, for Lambdaficator you will find:
+In this repository, for Lambdaficator you will find:<br>
 :white_check_mark: [Source code](not available)<br>
 :white_check_mark: [Binary Distribution](not available)<br>
-Lambdaficator is included in the official distribution of netbeans and there is no source code and binary available for Lambdaficator.
+Lambdaficator is included in the official distribution of netbeans and there is no source code and binary available for Lambdaficator.<br>
 :white_check_mark: [Virtual Machine containing Tool](https://drive.google.com/drive/folders/0B3GbPov8x279UFNIOFJGN1hlUEk)<br>
 The Virtual Machine Disk image can be downloaded from the above link and directly imported into Virtual Box to start the Virtual Machine which contains the tool PSPWizard.
 <br>

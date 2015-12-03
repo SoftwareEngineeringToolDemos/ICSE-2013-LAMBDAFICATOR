@@ -14,8 +14,6 @@ In this repository, for Lambdaficator you will find:<br>
 
 :x: Source code (not available)<br>
 :x: Binary Distribution (not available)<br>
-
-
 :white_check_mark: [Virtual Machine containing Tool](https://drive.google.com/a/ncsu.edu/file/d/0B5oCXk5b71yhbkFBZlFHUENFQzA/view?usp=sharing)<br>
 
 <p>

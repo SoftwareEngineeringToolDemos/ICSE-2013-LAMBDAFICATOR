@@ -6,15 +6,13 @@ This repository contains information related to the tool LAMBDAFICATOR presented
 This repository <i>is not </i>the original repository for this tool. Here are some links to the original project:
 
 
-<a href="http://refactoring.info/tools/LambdaFicator/">The Official Project Page</a>
-<br>
-<a href="https://www.youtube.com/watch?v=EIyAflgHVpU">A Video of the Tool</a>
+* <a href="http://refactoring.info/tools/LambdaFicator/">The Official Project Page</a>
+* <a href="https://www.youtube.com/watch?v=EIyAflgHVpU">A Video of the Tool</a>
 
 In this repository, for Lambdaficator you will find:<br>
-
-:x: Source code (not available)<br>
-:x: Binary Distribution (not available)<br>
-:white_check_mark: [Virtual Machine containing Tool](https://drive.google.com/a/ncsu.edu/file/d/0B5oCXk5b71yhbkFBZlFHUENFQzA/view?usp=sharing)<br>
+* :x: Source code (not available)
+* :x: Binary Distribution (not available)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 <p>
 LAMBDAFICATOR is available in the JDK8-lambda branch of NetBeans.
